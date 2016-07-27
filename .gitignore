@@ -1,0 +1,4 @@
+.buildpath
+.project
+.settings/org.eclipse.ltk.core.refactoring.prefs
+src/config.lua

@@ -1,0 +1,2 @@
+
+dofile("yaas.lua")
