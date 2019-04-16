@@ -2,6 +2,7 @@
 pin = 4
 
 
+
 status, temp, humi, temp_dec, humi_dec = dht.read(pin)
 if status == dht.OK then
     -- Integer firmware using this example
